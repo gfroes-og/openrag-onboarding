@@ -1,0 +1,77 @@
+00:01 it's a common myth that governments
+00:04 don't want to be open and they're
+00:06 sometimes against their citizens and
+00:08 that's not what we found at all we find
+00:10 really hard working smart people they're
+00:13 typically struggling against old
+00:15 technology and it's hard to get a
+00:17 decision made in a large organization
+00:20 where you might have to have consensus I
+00:23 grew up near government my father worked
+00:27 at the National Academy of Sciences in
+00:29 Washington and I studied government in
+00:30 college I went to law school I did a
+00:32 master's degree in public administration
+00:33 and after grad school I went to Mexico
+00:36 and I studied corruption in the Mexican
+00:38 government then I had a brief law career
+00:40 as a law clerk in the federal judiciary
+00:41 and then a trial litigator before going
+00:44 overseas to Afghanistan where I served
+00:46 as an advisor to general McMaster on the
+00:48 anti-corruption task force so I've
+00:51 worked in and around government for most
+00:53 of the past 15 to 20 years certainly at
+00:56 least at the thematic level around
+00:57 transparency and budgeting and
+00:59 anti-corruption and open data but
+01:01 starting a company in this space has
+01:03 been the most exciting journey of so
+01:04 many that I've had
+01:06 we started open gov while I was living
+01:09 in a shipping container in Kabul
+01:10 Afghanistan for the prior couple of
+01:12 years we have been studying what was
+01:15 gonna happen to all the government's in
+01:17 California as their revenues dried up
+01:18 during the Great Recession and
+01:20 particularly the California budget
+01:21 crisis in the course of that work we
+01:23 started talking with budget directors
+01:25 finance directors across the state
+01:26 including at the state and we said hey
+01:28 give us your budget data and will help
+01:30 you drill through it and see trends
+01:31 across the years they said wow that
+01:33 sounds really useful how do we get to
+01:35 our budget data the state of California
+01:37 was using an accounting system that ran
+01:39 on COBOL we said oh my gosh the people
+01:42 running these governments can't even see
+01:44 where all their money goes across very
+01:46 complicated enterprises they can't share
+01:48 data with their elected officials who
+01:50 are supposed to govern and make policy
+01:52 their citizens are losing trust and
+01:54 getting disengaged so we started open up
+01:56 and the vision was and is a government
+01:58 performance management suite in the
+02:00 cloud that sits above the thousands of
+02:02 30-year old legacy systems in use by
+02:05 every city county school district
+02:08 special district and stages
+02:09 in the country so frequently we're just
+02:12 up against the status quo where
+02:14 government executives are saying wow
+02:15 this is the direction we need to move
+02:17 how do we get started how do we navigate
+02:19 our organization so we can really get
+02:20 this deployed effectively and start
+02:22 getting value you can argue about
+02:24 opinions you can argue about policy but
+02:26 there shouldn't be any argument about
+02:27 the data or the facts and OpenGov can
+02:29 really help communities solve that I'm
+02:31 Zack Bookman co founder and CEO of open
+02:34 gun
+02:35 [Music]
