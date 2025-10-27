@@ -12,6 +12,26 @@ The heart of this demo is my **KNOW Personality Assessment**, a tool I developed
 
 ---
 
+## Screenshots
+
+| Login Page | Student Dashboard | Personality Assessment |
+| :---: | :---: | :---: |
+| ![Login Page](./public/1.png) | ![Student Dashboard](./public/2.png) | ![Personality Assessment](./public/3.png) |
+
+| Assessment Results | Reading Materials | AI Assistant |
+| :---: | :---: | :---: |
+| ![Assessment Results](./public/4.png) | ![Reading Materials](./public/5.png) | ![AI Assistant](./public/6.png) |
+
+| Onboarding Manager | Edit Onboarding - Basic Info | Edit Onboarding - Employees |
+| :---: | :---: | :---: |
+| ![Onboarding Manager](./public/7.png) | ![Edit Onboarding - Basic Info](./public/8.png) | ![Edit Onboarding - Employees](./public/9.png) |
+
+| Edit Onboarding - Content | Edit Onboarding - Features |
+| :---: | :---: |
+| ![Edit Onboarding - Content](./public/10.png) | ![Edit Onboarding - Features](./public/11.png) |
+
+---
+
 ## The KNOW Personality Test
 
 The centerpiece of this project is the **KNOW Personality Assessment**, a DISC-based framework I've refined over the years. For additional context on this methodology, check out this animated book summary of [Thomas Erikson's work](https://www.youtube.com/watch?v=5_aRNG-02ZY), which explains the same foundational concepts that inspired the KNOW test. It helps categorize people into one of four profiles:
